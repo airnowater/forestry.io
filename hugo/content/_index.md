@@ -2,10 +2,9 @@
 aliases:
 - "/remote/"
 title: Static CMS for Hugo & Jekyll
-description: Static CMS for Hugo & Jekyll sites, powered by Git. A better way to build
-  sites.
-authors:
-- forestryio
+description: 'Design Syndicate for today, powered by human intelligence. A better
+  way to design. '
+authors: []
 blocks:
 - template: create-site-button-js
   engine_name: jekyll
