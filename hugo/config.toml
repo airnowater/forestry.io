@@ -93,7 +93,7 @@ ghrepo_edit = "https://github.com/airnowater/forestry.io/edit/master/hugo/conten
 ghrepo_new = "https://github.com/airnowater/forestry.io/issues/new"
 gtmid = ""
 images = ["/uploads/2018/01/OGimage-01-3x.jpg"]
-mixpanelid = "8aaf5d792dd5bf875adae0b2adac8900"
+mixpanelid = ""
 [params.algolia]
 params = ["tags", "categories", "authors"]
 vars = ["date", "description", "dir", "path", "expirydate", "fuzzywordcount", "keywords", "kind", "lang", "lastmod", "permalink", "publishdate", "readingtime", "relpermalink", "summary", "title", "type", "url", "weight", "wordcount", "section"]
