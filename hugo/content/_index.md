@@ -1,7 +1,7 @@
 ---
 aliases:
 - "/remote/"
-title: Static CMS for Hugo & Jekyll
+title: CMS for Hugo & Jekyll
 description: 'Design Syndicate for today, powered by human intelligence. A better
   way to design. '
 authors: []
