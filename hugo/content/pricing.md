@@ -49,5 +49,6 @@ menu:
     weight: 1
   main:
     weight: 1
+    name: Pricing?
 
 ---
